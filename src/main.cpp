@@ -36,10 +36,17 @@ int getTriangleType(int a, int b, int c) {
     }
     return -3;
 }
-//1004CodeBlocksTSET 新增
+
 int Add4Num (int a,int b,int c,int d){
     int e;
     e = a + b + c + d;
     return e;
+
+
+int abc(int w ){
+
+    return w*3;
+
+
 }
-////1004CodeBlocksTSET 新增End
+
