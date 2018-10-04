@@ -1,4 +1,4 @@
-#include <stdio.h>
+    #include <stdio.h>
 #include "main.h"
 
 #ifndef TEST
@@ -37,8 +37,15 @@ int getTriangleType(int a, int b, int c) {
     return -3;
 }
 
+<<<<<<< HEAD
 int abc(int w ){
 
     return w*3;
 
+=======
+int Add (int a,int b){
+    int c;
+    c = a + b;
+    return c;
+>>>>>>> master
 }
