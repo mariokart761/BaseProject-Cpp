@@ -42,6 +42,7 @@ int Add4Num (int a,int b,int c,int d){
     e = a + b + c + d;
     return e;
 
+}
 
 int abc(int w ){
 
